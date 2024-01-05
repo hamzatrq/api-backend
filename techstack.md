@@ -44,7 +44,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [hamzatrq/api-backend](https://github.com/hamzatrq/api-backend)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|25<br/>Tools used|01/02/24 <br/>Report generated|
+|27<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -207,14 +207,15 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (9)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (11)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (9)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (11)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[aws-sdk](https://www.npmjs.com/aws-sdk)|v2.768.0|09/11/20|Chris |Apache-2.0|[CVE-2020-28472](https://github.com/advisories/GHSA-rrc9-gqf8-8rwg) (High)|
 |[bip39](https://www.npmjs.com/bip39)|v3.0.2|09/19/20|Avaer Kazmer |ISC|N/A|
+|[discord.js](https://www.npmjs.com/discord.js)|v12.3.1|07/24/20|Chris |Apache-2.0|N/A|
 |[ethereumjs-wallet](https://www.npmjs.com/ethereumjs-wallet)|v1.0.1|10/22/20|Avaer Kazmer |MIT|N/A|
 |[form-data](https://www.npmjs.com/form-data)|v3.0.1|01/09/22|Hamza Tariq |MIT|N/A|
 |[http-proxy](https://www.npmjs.com/http-proxy)|v1.18.1|04/10/21|shawticus |MIT|N/A|
@@ -222,6 +223,7 @@ Full tech stack [here](/techstack.md)
 |[mkdirp](https://www.npmjs.com/mkdirp)|v0.5.5|07/24/20|Chris |MIT|N/A|
 |[node-fetch](https://www.npmjs.com/node-fetch)|v2.6.1|01/09/22|Hamza Tariq |MIT|[CVE-2022-0235](https://github.com/advisories/GHSA-r683-j2x4-v87g) (High)|
 |[uuid](https://www.npmjs.com/uuid)|v3.3.2|12/19/20|chrislatorres |MIT|N/A|
+|[web3](https://www.npmjs.com/web3)|v1.3.0|10/22/20|Avaer Kazmer |LGPL-3.0|[](https://github.com/advisories/GHSA-27v7-qhfv-rqq8) (Low)|
 
 <br/>
 <div align='center'>
