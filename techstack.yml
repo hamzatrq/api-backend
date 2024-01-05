@@ -2,11 +2,11 @@ repo_name: hamzatrq/api-backend
 report_id: faf999ada2d2f376ca2893615be15c87
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-02T17:59:53+00:00'
+timestamp: '2024-01-05T08:11:22+00:00'
 requested_by: hamzatrq
 provider: github
 branch: master
-detected_tools_count: 25
+detected_tools_count: 27
 tools:
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/hamzatrq/api-backend
   detection_source: Repo Metadata
 - name: Node.js
   description: A platform built on Chrome's JavaScript runtime for easily building
@@ -27,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/hamzatrq/api-backend/blob/master/package.json
   detection_source: package.json
   last_updated_by: Avaer Kazmer
   last_updated_on: 2019-08-18 04:15:50.000000000 Z
@@ -39,6 +41,7 @@ tools:
   category: Data Stores
   sub_category: Blockchain
   image_url: https://img.stackshare.io/service/1634/default_dacdb57c0b4f9d422e4a23aed8b9bbf7a6024fed.jpg
+  detection_source_url: https://github.com/hamzatrq/api-backend/blob/master/package.json
   detection_source: package.json
   last_updated_by: Avaer Kazmer
   last_updated_on: 2020-10-22 02:55:17.000000000 Z
@@ -65,6 +68,7 @@ tools:
   category: Application Hosting
   sub_category: Realtime Backend / API
   image_url: https://img.stackshare.io/service/11381/no-img-open-source.png
+  detection_source_url: https://github.com/hamzatrq/api-backend/blob/master/package.json
   detection_source: package.json
   last_updated_by: Avaer Kazmer
   last_updated_on: 2019-08-18 04:15:50.000000000 Z
@@ -77,6 +81,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Server Configuration and Automation
   image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/hamzatrq/api-backend/blob/master/package.json
   detection_source: package.json
   last_updated_by: shawticus
   last_updated_on: 2021-04-10 13:08:22.000000000 Z
@@ -88,6 +93,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/hamzatrq/api-backend
   detection_source: Repo Metadata
 - name: Prettier
   description: 'Prettier is an opinionated code formatter. '
@@ -112,6 +118,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Headless Browsers
   image_url: https://img.stackshare.io/service/7553/puppeteer.png
+  detection_source_url: https://github.com/hamzatrq/api-backend/blob/master/package.json
   detection_source: package.json
   last_updated_by: Avaer Kazmer
   last_updated_on: 2020-09-27 16:49:51.000000000 Z
@@ -151,6 +158,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/hamzatrq/api-backend/blob/master/package.json
   detection_source: package.json
   last_updated_by: Avaer Kazmer
   last_updated_on: 2019-08-18 04:15:50.000000000 Z
@@ -162,6 +170,7 @@ tools:
   category: Payments
   sub_category: Payment Services
   image_url: https://img.stackshare.io/service/97/eW6tXeq3.png
+  detection_source_url: https://github.com/hamzatrq/api-backend/blob/master/package.json
   detection_source: package.json
   last_updated_by: Chris
   last_updated_on: 2020-09-11 01:46:45.000000000 Z
@@ -172,6 +181,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/8403/logo-square.png
+  detection_source_url: https://github.com/hamzatrq/api-backend/blob/master/package.json
   detection_source: package.json
   last_updated_by: Chris
   last_updated_on: 2020-07-24 23:32:52.000000000 Z
@@ -184,12 +194,14 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/hamzatrq/api-backend
   detection_source: Repo Metadata
 - name: web3
   website_url: https://github.com/ethereum/web3.js/
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/8418/no-img-open-source.png
+  detection_source_url: https://github.com/hamzatrq/api-backend/blob/master/package.json
   detection_source: package.json
   last_updated_by: Avaer Kazmer
   last_updated_on: 2020-10-22 02:55:08.000000000 Z
@@ -228,6 +240,20 @@ tools:
   detection_source: package.json
   last_updated_by: Avaer Kazmer
   last_updated_on: 2020-09-19 09:32:08.000000000 Z
+- name: discord.js
+  description: A powerful library for interacting with the Discord API
+  package_url: https://www.npmjs.com/discord.js
+  version: 12.3.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16866/default_21db97bdb9f4092d80f256d3afec4658fbafe443.png
+  detection_source_url: https://github.com/hamzatrq/api-backend/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Chris
+  last_updated_on: 2020-07-24 23:32:52.000000000 Z
 - name: ethereumjs-wallet
   description: Utilities for handling Ethereum keys
   package_url: https://www.npmjs.com/ethereumjs-wallet
@@ -333,3 +359,24 @@ tools:
   detection_source: package.json
   last_updated_by: chrislatorres
   last_updated_on: 2020-12-19 00:12:12.000000000 Z
+- name: web3
+  description: Ethereum JavaScript API
+  package_url: https://www.npmjs.com/web3
+  version: 1.3.0
+  license: LGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16369/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
+  detection_source_url: https://github.com/hamzatrq/api-backend/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Avaer Kazmer
+  last_updated_on: 2020-10-22 02:55:08.000000000 Z
+  vulnerabilities:
+  - name: Insecure Credential Storage in web3
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-27v7-qhfv-rqq8
+    detected_date: Aug 22
+    severity: low
+    first_patched: 
